@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #b0b0b0;">A Passionate Full-Stack Developer & AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zahramarym&label=Profile%20Views&color=ffffff&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zahramarym&label=Profile%20Views&color=000000&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
